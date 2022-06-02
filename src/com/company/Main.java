@@ -7,5 +7,7 @@ public class Main {
 
         Gato gato= new Gato();
         Perro perro= new Perro();
+        Menu menu = new Menu();
+        menu.menuCreacion();
     }
 }
