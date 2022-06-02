@@ -1,7 +1,7 @@
 package com.company;
 
 public class Perro extends Animal {
-    private String modeloCorrea;
+    private String modeloCorrea="perro pituco";
 
     public String getModeloCorrea() {
         return modeloCorrea;
