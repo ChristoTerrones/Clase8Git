@@ -9,5 +9,6 @@ public class Main {
         Perro perro= new Perro();
         Menu menu = new Menu();
         menu.menuCreacion();
+        menu.menuReportes();
     }
 }
