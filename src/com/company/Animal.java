@@ -3,6 +3,7 @@ package com.company;
 public class Animal {
     private String raza;
     private String nombre;
+    private int edad;
     public String getRaza() {
         return raza;
     }
