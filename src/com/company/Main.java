@@ -10,6 +10,8 @@ public class Main {
         Gato gato= new Gato();
         Perro perro= new Perro();
         Scanner sc = new Scanner(System.in);
-        String opcion = sc.nextLine()
+
+        Menu menu = new Menu();
+        menu.menuReportes();
     }
 }
